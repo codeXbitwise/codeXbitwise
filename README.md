@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @codeXbitwise
-- 👀 I’m interested in coding,reading,basketball
-- 🌱 I’m currently learning: Frontend,python.
+- 👀 I’m interested in Coding,Problem solving,Reading books and playing Basketball;
+- 🌱 I’m currently learning: Frontend,c++;
 - 💞️ I’m looking to collaborate on:______
-- 📫 How to reach me:shahbaz.ansari30055@gmail.com
+- 📫 How to reach me:shahbaz.ansari30055@gmail.com;
 
 <!---
 codeXbitwise/codeXbitwise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
